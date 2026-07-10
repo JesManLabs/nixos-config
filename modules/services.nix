@@ -25,17 +25,6 @@
     alsa.support32Bit = true;   # Enforces 32-bit ALSA execution routing (Critical for Wine/Games)
     pulse.enable = true;        # Deploys the PulseAudio API virtualization compatibility server
     
- # Tunes PipeWire's core engine clock rates and quantum buffer boundaries 
- # to enforce low-latency bounds for pro-audio and gaming applications. (e.g., Wine/Proton games)
-  extraConfig.pipewire."99-lowlatency" = {
-    "context.properties" = {
-      "default.clock.rate" = 48000;
-      "default.clock.quantum" = 1024;
-      "default.clock.min-quantum" = 32;
-      "default.clock.max-quantum" = 2048;
-    };
-  };
-    
   };
   
   

@@ -85,6 +85,6 @@ sudo nixos-rebuild switch
 
 I specialize in automating backend infrastructure, containerizing complex developer workflows, and breathing new life into local hardware arrays using lightweight, immutable Linux distributions. 
 
-For enterprise optimizations, hardware-fleet revitalizations, or custom cloud setups, reach out via my Email: jemmanofficial@gmail.com or Telegram: @JesMan1
+For enterprise optimizations, hardware-fleet revitalizations, or custom cloud setups, reach out via my Email: jemmanofficial@gmail.com or Telegram: t.me/JesMan1
 
 * **License:** MIT. Feel free to fork, tweak, and deploy!

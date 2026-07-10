@@ -30,7 +30,7 @@
     ./modules/battery-management-and-lid-policy.nix 
     ./modules/services.nix
     ./modules/virtualization.nix
-    ./modules/trackpad-wake-fix.nix # you might want to comment or delete this line if on Desktop
+
    
   ];
 
